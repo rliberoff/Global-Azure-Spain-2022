@@ -1,0 +1,18 @@
+body
+{
+  background-color: #001344;
+}
+
+.App {
+  padding-top: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;  
+}
+
+.container
+{
+  width: 75%;
+}

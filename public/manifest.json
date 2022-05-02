@@ -1,0 +1,10 @@
+{
+  "short_name": "Fluid Relay and Framework",
+  "name": "Azure Fluid Relay + Fluid Framework",
+  "icons": [    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
